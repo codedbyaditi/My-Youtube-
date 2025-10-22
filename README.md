@@ -1,5 +1,5 @@
 <div align="center">
- <img src="logo.jpg" alt="Logo" width="120" height="120">
+ <img src="./logo.jpg" alt="Logo" width="120" height="120">
   <h1 align="center">🎶 Universal Song Player & Lyrics Finder 🎶</h1>
   <p align="center">
     Your personal gateway to the world of music.
